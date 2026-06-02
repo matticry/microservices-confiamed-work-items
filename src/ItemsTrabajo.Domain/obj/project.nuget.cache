@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TpdAQq0KRbo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matticry\\RiderProjects\\ItemsTrabajoApi\\src\\ItemsTrabajo.Domain\\ItemsTrabajo.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matticry\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.0\\microsoft.entityframeworkcore.abstractions.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

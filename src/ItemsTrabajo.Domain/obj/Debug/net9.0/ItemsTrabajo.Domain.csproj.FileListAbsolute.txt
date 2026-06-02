@@ -1,0 +1,12 @@
+C:\Users\matticry\RiderProjects\ItemsTrabajoApi\src\ItemsTrabajo.Domain\bin\Debug\net9.0\ItemsTrabajo.Domain.deps.json
+C:\Users\matticry\RiderProjects\ItemsTrabajoApi\src\ItemsTrabajo.Domain\bin\Debug\net9.0\ItemsTrabajo.Domain.dll
+C:\Users\matticry\RiderProjects\ItemsTrabajoApi\src\ItemsTrabajo.Domain\bin\Debug\net9.0\ItemsTrabajo.Domain.pdb
+C:\Users\matticry\RiderProjects\ItemsTrabajoApi\src\ItemsTrabajo.Domain\obj\Debug\net9.0\ItemsTrabajo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matticry\RiderProjects\ItemsTrabajoApi\src\ItemsTrabajo.Domain\obj\Debug\net9.0\ItemsTrabajo.Domain.AssemblyInfoInputs.cache
+C:\Users\matticry\RiderProjects\ItemsTrabajoApi\src\ItemsTrabajo.Domain\obj\Debug\net9.0\ItemsTrabajo.Domain.AssemblyInfo.cs
+C:\Users\matticry\RiderProjects\ItemsTrabajoApi\src\ItemsTrabajo.Domain\obj\Debug\net9.0\ItemsTrabajo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\matticry\RiderProjects\ItemsTrabajoApi\src\ItemsTrabajo.Domain\obj\Debug\net9.0\ItemsTrabajo.Domain.dll
+C:\Users\matticry\RiderProjects\ItemsTrabajoApi\src\ItemsTrabajo.Domain\obj\Debug\net9.0\refint\ItemsTrabajo.Domain.dll
+C:\Users\matticry\RiderProjects\ItemsTrabajoApi\src\ItemsTrabajo.Domain\obj\Debug\net9.0\ItemsTrabajo.Domain.pdb
+C:\Users\matticry\RiderProjects\ItemsTrabajoApi\src\ItemsTrabajo.Domain\obj\Debug\net9.0\ref\ItemsTrabajo.Domain.dll
+C:\Users\matticry\RiderProjects\ItemsTrabajoApi\src\ItemsTrabajo.Domain\obj\Debug\net9.0\ItemsTrabajo.Domain.csproj.AssemblyReference.cache

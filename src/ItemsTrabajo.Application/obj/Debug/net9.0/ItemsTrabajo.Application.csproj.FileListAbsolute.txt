@@ -1,0 +1,15 @@
+C:\Users\matticry\RiderProjects\ItemsTrabajoApi\src\ItemsTrabajo.Application\bin\Debug\net9.0\ItemsTrabajo.Application.deps.json
+C:\Users\matticry\RiderProjects\ItemsTrabajoApi\src\ItemsTrabajo.Application\bin\Debug\net9.0\ItemsTrabajo.Application.dll
+C:\Users\matticry\RiderProjects\ItemsTrabajoApi\src\ItemsTrabajo.Application\bin\Debug\net9.0\ItemsTrabajo.Application.pdb
+C:\Users\matticry\RiderProjects\ItemsTrabajoApi\src\ItemsTrabajo.Application\bin\Debug\net9.0\ItemsTrabajo.Domain.dll
+C:\Users\matticry\RiderProjects\ItemsTrabajoApi\src\ItemsTrabajo.Application\bin\Debug\net9.0\ItemsTrabajo.Domain.pdb
+C:\Users\matticry\RiderProjects\ItemsTrabajoApi\src\ItemsTrabajo.Application\obj\Debug\net9.0\ItemsTrabajo.Application.csproj.AssemblyReference.cache
+C:\Users\matticry\RiderProjects\ItemsTrabajoApi\src\ItemsTrabajo.Application\obj\Debug\net9.0\ItemsTrabajo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matticry\RiderProjects\ItemsTrabajoApi\src\ItemsTrabajo.Application\obj\Debug\net9.0\ItemsTrabajo.Application.AssemblyInfoInputs.cache
+C:\Users\matticry\RiderProjects\ItemsTrabajoApi\src\ItemsTrabajo.Application\obj\Debug\net9.0\ItemsTrabajo.Application.AssemblyInfo.cs
+C:\Users\matticry\RiderProjects\ItemsTrabajoApi\src\ItemsTrabajo.Application\obj\Debug\net9.0\ItemsTrabajo.Application.csproj.CoreCompileInputs.cache
+C:\Users\matticry\RiderProjects\ItemsTrabajoApi\src\ItemsTrabajo.Application\obj\Debug\net9.0\ItemsTra.33DC4158.Up2Date
+C:\Users\matticry\RiderProjects\ItemsTrabajoApi\src\ItemsTrabajo.Application\obj\Debug\net9.0\ItemsTrabajo.Application.dll
+C:\Users\matticry\RiderProjects\ItemsTrabajoApi\src\ItemsTrabajo.Application\obj\Debug\net9.0\refint\ItemsTrabajo.Application.dll
+C:\Users\matticry\RiderProjects\ItemsTrabajoApi\src\ItemsTrabajo.Application\obj\Debug\net9.0\ItemsTrabajo.Application.pdb
+C:\Users\matticry\RiderProjects\ItemsTrabajoApi\src\ItemsTrabajo.Application\obj\Debug\net9.0\ref\ItemsTrabajo.Application.dll
